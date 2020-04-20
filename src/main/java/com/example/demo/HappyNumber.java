@@ -1,10 +1,7 @@
 package com.example.demo;
 
-import ch.qos.logback.core.net.SyslogOutputStream;
-
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 /**
  *Write an algorithm to determine if a number n is "happy".
